@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CharIoT App</string>
+    <string name="ble_uuid">6E400001-B5A3-F393-E0A9-E50E24DCCA9E</string>
+    <string name="tx_uuid">6E400002-B5A3-F393-E0A9-E50E24DCCA9E</string>
+    <string name="rx_uuid">6E400003-B5A3-F393-E0A9-E50E24DCCA9E</string>
+    <string name="dev_1_connected">CharIoT Temperature Node Connected</string>
+    <string name="dev_1_disconnected">CharIoT Temperature Node Disconnected</string>
+    <string name="dev_2_connected">CharIoT Accelerometer Node Connected</string>
+    <string name="dev_2_disconnected">CharIoT Accelerometer Node Disconnected</string>
+    <string name="dev_3_connected">CharIoT LED Controller Node Connected</string>
+    <string name="dev_3_disconnected">CharIoT LED Controller Node Disconnected</string>
+    <string name="button_1_text">Red</string>
+    <string name="button_2_text">Green</string>
+    <string name="button_3_text">Blue</string>
+    <string name="button_4_text">Automatic</string>
+</resources>
